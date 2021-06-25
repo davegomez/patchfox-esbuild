@@ -6,5 +6,5 @@
 
 ## Scripts
 
-`npm run browserify`
-`npm run esbuild`
+- `npm run browserify`
+- `npm run esbuild`
